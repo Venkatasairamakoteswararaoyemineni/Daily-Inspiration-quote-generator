@@ -23,7 +23,7 @@ Technologies Used
 File Info
 
 This project is written in one single file:  
-`index.html` — contains all the code (HTML, CSS, and JavaScript)
+`DailyQuote.html` — contains all the code (HTML, CSS, and JavaScript)
 
 Features
 
