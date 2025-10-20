@@ -41,6 +41,3 @@ Future Ideas
 License
 
 This project is free to use for learning, personal use, or portfolio projects.
----
-
-Made with ❤️ by Venkat
